@@ -1,3 +1,3 @@
-def reverse_text(value):
+def revers_text(value: str):
     """Возвращает перевернутый текст"""
-    retutn value[::-1]
+    return value[::-1]
